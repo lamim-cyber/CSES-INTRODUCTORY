@@ -21,7 +21,5 @@ int main()
             v[i+1]=v[i];
         }
     }
-
-
     cout<< a<< endl;
 }
