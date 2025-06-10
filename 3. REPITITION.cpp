@@ -13,14 +13,12 @@ int main()
         {
             if(maxi<a)
                 maxi=a;
-
             a=0;
         }
     }
 
     if(maxi<a)
         maxi=a;
-
-
+    
     cout<< maxi+1<< endl;
 }
